@@ -1,0 +1,6 @@
+{
+  "descripcion": "Parametros del laboratorio para el monitor fisico de energia (Atorch S1BW). Rutas vacias: valores por defecto (entorno venv y energia_ble.py de src/monitoring/hardware_monitor).",
+  "atorch_mac": "00:00:00:19:EC:2C",
+  "python_medidor_energia": "",
+  "script_medidor_energia": ""
+}

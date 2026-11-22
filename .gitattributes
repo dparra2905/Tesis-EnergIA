@@ -1,0 +1,4 @@
+# Los scripts de cmd necesitan CRLF: con solo LF, goto/call a etiquetas pueden fallar
+*.bat text eol=crlf
+# Los scripts de bash necesitan LF: con CRLF fallan ("set -u\r")
+*.sh text eol=lf

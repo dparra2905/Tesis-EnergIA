@@ -1,0 +1,54 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compilados
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Datos pesados
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Corridas y dependencias del backend
+corridas/
+vcpkg/
+vcpkg_installed/
+# libtorch descargado por src/execution/models/CMakeLists.txt (cientos de MB; antes en models/arbol/)
+libtorch-*/
+descargas/
+
+# Artefactos MSVC / Qt Creator
+*.pdb
+*.ilk
+*.exp
+*.lib
+CMakeLists.txt.user
+
+# Respaldo del repositorio anterior
+.git_respaldo/
+# Carpeta armada por scripts/desplegar_windows.bat
+dist/
