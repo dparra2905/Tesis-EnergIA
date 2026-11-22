@@ -72,4 +72,4 @@ Trabajo de grado de [PENDIENTE: programa y universidad].
 
 ## Origen del código
 
-Parte del backend viene de Back-EnergIA, la primera versión de EnergIA hecha por el equipo. El monitor de energía (`energia_ble.py`) se reescribió a partir de `atorch_ble_capture.py` de Juan Diego Peña ([proactive-autoscaling-dl-models](https://github.com/JuanDPenaM/proactive-autoscaling-dl-models)). Los archivos que vienen de esas fuentes lo indican en su cabecera.
+ El monitor de energía (`energia_ble.py`) se reescribió a partir de `atorch_ble_capture.py` de Juan Diego Peña ([proactive-autoscaling-dl-models](https://github.com/JuanDPenaM/proactive-autoscaling-dl-models)). Los archivos que vienen de esas fuentes lo indican en su cabecera.
