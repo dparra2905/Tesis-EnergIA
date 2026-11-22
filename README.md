@@ -67,9 +67,8 @@ Trabajo de grado de [PENDIENTE: programa y universidad].
 
 | Rol | Nombre |
 |---|---|
-| Autores | David Parra · Diego Andrés Villabón Correa · [PENDIENTE: demás integrantes] |
+| Autores | David Parra · Diego Andrés Villabón Correa · Mateo Maldonado|
 | Directora | Mariela Curiel |
-| Codirector | Leonardo [PENDIENTE: apellido] |
 
 ## Origen del código
 
