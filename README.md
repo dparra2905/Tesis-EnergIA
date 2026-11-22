@@ -63,8 +63,6 @@ El prototipo de la interfaz está en [Figma](https://www.figma.com/proto/tc09oEL
 
 ## Equipo
 
-Trabajo de grado de [PENDIENTE: programa y universidad].
-
 | Rol | Nombre |
 |---|---|
 | Autores | David Parra · Diego Andrés Villabón Correa · Mateo Maldonado|
